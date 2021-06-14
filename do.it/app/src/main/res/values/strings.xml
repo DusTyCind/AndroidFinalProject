@@ -13,4 +13,5 @@
     <string name="new_task">New Task</string>
     <string name="Where">Where</string>
     <string name="Time">Enter time</string>
+    <string name="clean">Clean all tasks</string>
 </resources>
